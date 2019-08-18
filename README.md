@@ -1,5 +1,7 @@
 # algorithm前端算法练习
 
+- [7-字符串查找，判断字符串a是否被包含在字符串b中，并返回字符串a第一次出现的位置](https://github.com/bettersong/algorithm/issues/7)
+
 - [6-排序（冒泡排序）问题](https://github.com/bettersong/algorithm/issues/6)
 
 - [5-不借助临时变量，将两个变量互换值](https://github.com/bettersong/algorithm/issues/5)
