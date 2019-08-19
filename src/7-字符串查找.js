@@ -30,6 +30,15 @@ function findStr(str1,str2){
 
 console.log(findStr('cd','abcdefga'))   //  2
 console.log(findStr('acf','ashahgbvj'))    //-1
+
+
+
+
+
+
+
+
+
 // function isContain(a, b) {
 //     for (let i in b) {
 //         if (a[0] === b[i]) {
