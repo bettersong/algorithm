@@ -17,3 +17,17 @@ function strReverse2(str){
     return ([...str].reverse().join(''))
 }
 console.log(strReverse2('hello'))   // 'olleh'
+
+// 数组反转
+function arrReverse(arr){
+    for(let i=0;i<arr.length;i++){
+        var helpItem = arr[i]
+        arr[i] = arr[arr.length-1-i]
+        arr[arr.length-1-i] = helpItem
+        console.log(arr[arr.length - 1 - i])
+        //[arr[i],arr[arr.length-1-i]] = [arr[arr.length-1-i],arr[i]]
+    }
+// console.log(arr)
+}
+arrReverse([1, 2, 3, 4, 5, 6, 7])
+console.log(arrReverse([1,2,3,4,5,6,7]))

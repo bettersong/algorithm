@@ -75,8 +75,8 @@ console.log(unique5([1, 2, 2, 4, 1, 5, 6, 2])) //[1,2,4,5,6]
 function unique6(arr){
     var obj = {}
     arr.forEach((item,index) => {
-        obj[item] = index
+        obj[item] = item
     })
-    return Object.keys(obj)
+    return Object.values(obj)
 }
-console.log(unique6(['1', '2', '2', '4', '1', '5', '6', '2'])) //['1','2','4','5','6']
+console.log(unique6([1, 2, 2, 4, 1, 5, 6, 2])) //[1,2,4,5,6]

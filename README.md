@@ -1,5 +1,9 @@
 # algorithm前端算法练习
 
+- [10.将类似str = get-element-by-id 转为getElementById这种驼峰方式](https://github.com/bettersong/algorithm/issues/10)
+
+- [9-排序算法（快速排序）](https://github.com/bettersong/algorithm/issues/9)
+
 - [8-随机生成指定长度的字符串](https://github.com/bettersong/algorithm/issues/8)
 
 - [7-字符串查找，判断字符串a是否被包含在字符串b中，并返回字符串a第一次出现的位置](https://github.com/bettersong/algorithm/issues/7)
