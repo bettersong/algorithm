@@ -1,5 +1,7 @@
 # algorithm前端算法练习
 
+- [day11-封装一个类似es6的flat方法，将数组扁平化](https://github.com/bettersong/algorithm/issues/11)
+
 - [10.将类似str = get-element-by-id 转为getElementById这种驼峰方式](https://github.com/bettersong/algorithm/issues/10)
 
 - [9-排序算法（快速排序）](https://github.com/bettersong/algorithm/issues/9)
